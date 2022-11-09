@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Loppuharkka</string>
+    <string name="anna_numero_ja_katsotaan_osaako_jack_arvata_lukusi">Anna numero ja katsotaan osaako Jack arvata lukusi</string>
+    <string name="pelaaja">Pelaaja</string>
+    <string name="jack_norris">Jack Norris</string>
+    <string name="tervetuloa">Tervetuloa</string>
+    <string name="vitsihaku">VitsiHaku</string>
+    <string name="ohjelmassa_on_mahdollista_lukea_jack_norrisiin_liittyvi_quot_faktoja_quot_tai_katsoa_osaako_jack_arvata_lukusi">Ohjelmassa on mahdollista lukea Jack Norrisiin liittyviä \"Faktoja\" tai katsoa osaako Jack arvata lukusi</string>
+    <string name="ly_vetoa_jackin_kanssa">Lyö Vetoa Jackin Kanssa</string>
+    <string name="p_ivit">Päivitä</string>
+    <string name="jackinarvaus">"Jack arvasi: "</string>
+    <string name="mainarvausket">"Jackin oikein ennustetut: "</string>
+    <string name="takaisin">Takaisin</string>
+    <string name="epäonnistuminen">Ei pystytty lataamaan</string>
+</resources>

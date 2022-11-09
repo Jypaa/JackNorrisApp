@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="anna_numero_ja_katsotaan_osaako_jack_arvata_lukusi">Enter a number and we\'ll see if Jack can guess your number</string>
+    <string name="pelaaja">Player</string>
+    <string name="jack_norris">Jack Norris</string>
+    <string name="tervetuloa">Welcome</string>
+    <string name="vitsihaku">Joke search</string>
+    <string name="ohjelmassa_on_mahdollista_lukea_jack_norrisiin_liittyvi_quot_faktoja_quot_tai_katsoa_osaako_jack_arvata_lukusi">In the program it is possible to read \"Facts\" related to Jack Norris or see if Jack can guess your number</string>
+    <string name="ly_vetoa_jackin_kanssa">Bet With Jack</string>
+    <string name="p_ivit">Update</string>
+    <string name="jackinarvaus">"Jack's guess: "</string>
+    <string name="mainarvausket">"Jack\'s correct predictions: "</string>
+    <string name="takaisin">Back</string>
+    <string name="epäonnistuminen">Failed to download</string>
+</resources>
